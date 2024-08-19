@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuketema&label=Profile%20views&color=0e75b6&style=flat" alt="samuketema" /> </p>
 
-- 🌱 I’m currently learning **Complete Web Development(Udemy)**
+- 🔭 I’m currently working on [Intern Project (Flutter)](https://github.com/samuketema/BetLink.git)
+
+- 🌱 I’m currently learning **Complete Web and Application Development(Udemy)**
 
 - 💬 Ask me about **Flutter**
 
